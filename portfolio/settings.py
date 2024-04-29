@@ -85,7 +85,7 @@ DATABASES = {
         'USER': 'vashisthNitesh',
         'PASSWORD': 'postgres',
         'HOST': 'vashisthNitesh.mysql.pythonanywhere-services.com',
-        'PORT': '3306',  # MySQL default port
+        'PORT': '5432',  # MySQL default port
     }
 }
 
