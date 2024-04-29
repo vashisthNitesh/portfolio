@@ -85,6 +85,7 @@ DATABASES = {
         'USER': 'vashisthNitesh',
         'PASSWORD': 'postgres',
         'HOST': 'vashisthNitesh.mysql.pythonanywhere-services.com',
+        'PORT': '3306',
     }
 }
 
